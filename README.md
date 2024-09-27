@@ -5,3 +5,4 @@
 - El programa debe mostrar citas de los usuarios
 ### Requerimientos no funcionales
 - La interfas cargara de manera rapida y eficiente
+- El sistema genera un reporte mensual, semanal de manera automatica
